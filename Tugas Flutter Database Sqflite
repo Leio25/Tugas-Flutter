@@ -7,7 +7,7 @@ class App extends StatelessWidget {
       title: 'Flutter penyimpanan data',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('6SIA10'),
+          title: Text('Leonardo/6SIA10'),
         ),
         body: Customer(),
       ),
